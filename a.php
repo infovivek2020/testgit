@@ -1,5 +1,4 @@
 <?php 
 
-echo "thinktank Vivek";
-echo " iwant new geno"
+ hello from all arround the wolc
  ?>
