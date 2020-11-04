@@ -1,3 +1,5 @@
 <?php 
 
-echo "Vivek"; ?>
+echo "thinktank Vivek";
+echo " iwant new geno"
+ ?>
